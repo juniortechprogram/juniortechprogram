@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @juniortechprogram
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-juniortechprogram/juniortechprogram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Olá, eu sou o Junior.
+Sou um Dev em formação.
+Atualmente estou estudando as tecnologias: HTML, CSS, Javascript, Bootstrap, Node.js e Reacjs.
+Tenho 3 projetos de site aqui no Git, e estou desenvolvendo mais alguns.
+Espero em breve contribuir com os conhecimentos que estou adquirindo em algum projeto de uma empresa, ou Freelance.
